@@ -1,0 +1,6 @@
+{
+  "name": "Image To URL",
+  "description": "Convert images into shareable URLs quickly and easily with Image To URL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
